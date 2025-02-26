@@ -6,7 +6,7 @@ from numpy import random
 #modello da simulare Y = x1 * x2
 
 #Numero di iterazioni:
-n = 100000
+n = 1000000
 sqrn = int(math.sqrt(n))
 
 #Grandezze di ingresso:
