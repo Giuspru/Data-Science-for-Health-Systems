@@ -35,5 +35,7 @@
 - Metodo variabili di controllo
 - Implementazione di integrale matlab (to do in python)
 - metodo Importance sampling
+- intro biometric measurements
+
 
 
