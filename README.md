@@ -28,3 +28,12 @@
 - Implementation in matlab (Python for me please)
 - MC for integration (script python)
 - computing pi with MC (script python)
+
+## 5) Lesson: 03/03/2025
+- Metodo delle variabili antitetiche
+- Implementazione matlab (to do python)
+- Metodo variabili di controllo
+- Implementazione di integrale matlab (to do in python)
+- metodo Importance sampling
+
+
