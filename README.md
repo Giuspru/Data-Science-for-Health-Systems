@@ -38,4 +38,14 @@
 - intro biometric measurements
 
 
+## 6) Lesson: 06/03/2025
 
+## 7) Lesson: 10/03/2025
+- Recap
+- Linearità riferita rispetto: zero, estremi, minimi quadrati, indipendente
+- Isteresi
+- impedenza: (variabile di sforzo)/(variabile di portatata)
+- Bio-potentilas
+- Elettrocardiogramma
+- Bioimmagini
+- TAC
